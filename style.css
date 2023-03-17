@@ -4,8 +4,8 @@
 }
 
 .cabecalho {
-    background-color: #435fbb;
-    color: white;
+    background-color: #fafafa;
+    color: rgb(18, 18, 212);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -18,7 +18,7 @@
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 30px;
     font-size: 24px;
 }
 Footer
