@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #fafafa;
+    background-color: #616588;
     color: rgb(18, 18, 212);
     display: flex;
     justify-content: space-around;
@@ -21,6 +21,16 @@
     margin: 0 30px;
     font-size: 24px;
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#616588,#555CA4);
+}
+
+
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
