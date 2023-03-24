@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -27,7 +28,7 @@
 }
 
 .escola{
-    background-image: linear-gradient(#616588,#555CA4);
+    background-image: linear-gradient(#616588,#303881);
     color: white;
     display: flex;
 }
