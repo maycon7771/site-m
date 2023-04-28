@@ -69,17 +69,12 @@
     grid-template-columns: 16% 16% 16% 16% 16%;
 }
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+.rodape{
+    background-color:#616588 ;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    
+}
